@@ -2,6 +2,8 @@
 
 ![cat](https://libreddit.spike.codes/img/4bgl195ucoy71.gif)  [^1]
 
+<sup>[(Previous profile picture)](https://dimentique.tumblr.com/post/67903777806/source)</sup>
+
 [^1]: <sup>[1][1], [2][2], [3][3]</sup> / [(a)][a] <sup>Many people pointed out this cat is not happy, "either as a result of overheating [or] anxiety". Poor cat :(</sup>
 
 [1]: https://reddit.com/r/shitposting/comments/q8uwwu/d/
