@@ -10,11 +10,8 @@
   </div>
 </div> &#8287;
 <div align="center">
-  <img src="gif/wolf.gif">
-</div> &#8287;
-<div align="center">
-  <a href="https://dimentique.tumblr.com/post/67903777806/source"><sup>(source)</sup></a>
-</div> &#8287;
+  <a href="https://dimentique.tumblr.com/post/67903777806/source"><img src="gif/wolf.gif"></a>
+</div>  &#8287;
 <div align="center">
   <img src="svg/languages/c.svg" alt="C" width="50"> &#8287;
   <img src="svg/languages/cpp.svg" alt="C++" width="50"> &#8287;
@@ -25,22 +22,27 @@
   <img src="svg/languages/html.svg" alt="HTML5" width="50"> &#8287;
   <img src="svg/languages/css.svg" alt="CSS3" width="50"> &#8287;
   <img src="svg/languages/js.svg" alt="Javascript" width="50"> &#8287;
-  <img src="svg/languages/go.svg" alt="Go" width="50">
+  <img src="svg/languages/ts.svg" alt="Typescript" width="50"/>
+  <img src="svg/languages/go.svg" alt="Go" width="50"> &#8287;
+  <img src="svg/languages/bash.svg" alt="Bash" width="50"> &#8287;
+  <a href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/latex.svg">
+    <img src="svg/languages/latex.svg" alt="LaTeX" width="50"></a>
+</div> &#8287;
+<div align="center">
+  <img src="svg/i-use-arch-linux-btw.svg" alt="Arch Linux">
 </div>
 
 ___
 
 ### *Not a Furry ™*
 
-Hi Internet, as of 15, I'm a researcher with interests and knowledge ranging from biology, chemistry and engineering to psychology, neurology and medicine; also a programmer, *hacker*, and *to-be* artist.
+Hi Internet, as of 15, I'm an independent researcher, programmer, *hacker*, and *to-be* artist with interests and knowledge ranging from biology, chemistry and engineering to psychology, neurology and medicine.
 
-I am an Internet privacy and FLOSS (free/*libre* <sup>a</sup> open-source software) advocate and enthusiast.
+I am an Internet privacy and FLOSS (free/*libre* open-source software) <sup>a</sup> advocate and enthusiast.
 
 *I develop games, websites, and much more!*
 
-![arch](svg/i-use-arch-linux-btw.svg)
-
-<sup>(a) '"[Libre] software” means software that respects users' freedom [...] borrowing the Spanish word for "free" as in freedom' <sup>[(GNU)][GNU]</sup></sup>
+<sup>(a) "*Libre* software respects users' freedom, borrowing the Spanish word for *free* as in freedom" <sup>[(GNU)][GNU]</sup></sup>
 
 [GNU]: https://www.gnu.org/philosophy/free-sw.en.html
 
@@ -48,30 +50,33 @@ I am an Internet privacy and FLOSS (free/*libre* <sup>a</sup> open-source softwa
 
 ## *Scientist?*
 
-![actually-no](https://media.tenor.com/zySGP75JLWgAAAAC/well-yes-but-actually-no-well-yes.gif)
+[![actually-no][GIF]][Tenor]
+
+[GIF]: https://media.tenor.com/zySGP75JLWgAAAAC/well-yes-but-actually-no-well-yes.gif
+[Tenor]: https://tenor.com/view/well-yes-but-actually-no-well-yes-no-yes-yes-no-gif-13736934
 
 Yes, *sort of*.
 
-> I usually read academic articles and books when I research a topic in particular, and have been reading them for over 3 years ago.
+> Over more than 3 years, I have researched complex topics through academic articles, books, and other authoritative sources.
 
-> In fact, I've recently started writing two scientific articles, one with a fellow researcher about an overlooked topic that we consider important, and I look forward to write even more on complex projects and topics.
+> In fact, I am in the process to write several scientific papers, one with a fellow researcher on an important, overlooked topic, and I look forward to write even more on these topics and other similarly challenging projects.
 
 ## *Hacker?*
 
-<sup>~Before you call the FBI on me~</sup>
+<sup>Before you call FBI on me</sup>
 
 a *hacker* has been defined as "[someone] who delights [over] an intimate understanding of the internal workings of a system, computers and networks" <sup>[1][RFC1983]</sup>, which I completely identify with.
 
-I do enjoy a lot to toy around with a system or program to understand how it works and get someting out of it; as Wikipedia puts, "the challenge of creatively overcoming the limitations of [systems] [...] to achieve clever outcomes" <sup>[2][Wikipedia]</sup>.
+I do enjoy a lot to toy around with a system or program to understand how it works and get something out of it; as Wikipedia puts, "the challenge of creatively overcoming the limitations of [systems] [...] to achieve clever outcomes" <sup>[2][Wikipedia]</sup>.
 
 [RFC1983]: https://www.rfc-editor.org/rfc/rfc1983.txt
 [Wikipedia]: https://en.wikipedia.org/wiki/Hacker
 
-> In fact, I'm knowledgeable about many topics that are related with cybersecurity and privacy over the Internet, or if you will, *hacking*.
+> In fact, I'm well-knowledgeable on cybersecurity (or if you will, *hacking*) and privacy over the Internet.
 
-> In practice, I have reverse engineered complex software, such as Windows (11) UEFI bootloader, Widevine DRM (through Electron/Chromium) and others, before with programs like Ghidra, IDA, Radare2 and x64dbg, and with good amount of knowledge on assembly code and C.
+> In practice, I have reverse engineered complex software, such as the Windows (11) UEFI bootloader, Widevine DRM (through Electron/Chromium) and others,  with programs like Ghidra, IDA, Radare2 and x64dbg, and with good amount of knowledge on assembly code, C and other languages.
 
-> I have been both able to dynamically and statically analyze software to understand their code flow; I've also reconstructed solid, functional code out of disassembly and its decompilation; and even write tools to do the job.
+> I have been able to, both, dynamically and statically analyze software to understand their code flow. I've reconstructed solid, functional code out of disassembly and its decompilation, and even write tools to do the job.
 
 # Acknowledgments
 
@@ -85,6 +90,13 @@ I do enjoy a lot to toy around with a system or program to understand how it wor
 ___
 
 <div align="center">
+  <sup>Banner video
+    <a href="https://www.pexels.com/video/close-up-view-of-colors-mixing-5612424/"><sup>a</sup></a>
+    by Jorge Urosa,
+    <a href="https://www.pexels.com/@jorgeural/"><sup>b</sup></a>
+    licensed under the Pexels license
+    <a href="https://www.pexels.com/license/"><sup>c</sup></a>
+  </sup>
   <details>
   <summary>FFmpeg</summary>
 
