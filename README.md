@@ -60,9 +60,9 @@ Actually, I've been working on multiple scientific papers, such as on important,
 [GIF]: https://media1.tenor.com/m/J--FtRHGiz0AAAAC/indeed-omar.gif
 [Tenor]: https://tenor.com/view/well-yes-but-actually-no-well-yes-no-yes-yes-no-gif-13736934
 
-a *hacker* is defined as someone "who delights over an intimate understanding of the internal workings of systems and networks". <sup>[1][RFC1983]</sup>
+a *hacker* is defined as someone "who delights over an intimate understanding of the workings of systems and networks". <sup>[1][RFC1983]</sup>
 
-Certainly, I do enjoy to toy around with a system or program to understand how it works and get something out of it, even after all the pain; as Wikipedia puts, "the challenge of creatively overcoming the limitations of [systems] [...] to achieve clever outcomes". <sup>[2][Wikipedia]</sup>
+Certainly, I do enjoy to toy with a system or program to understand how it works and get something out of it, even after the pain; as Wikipedia puts, "the challenge of creatively overcoming the limitations of [systems] [...] to achieve clever outcomes". <sup>[2][Wikipedia]</sup>
 
 [RFC1983]: https://www.rfc-editor.org/rfc/rfc1983.txt
 [Wikipedia]: https://en.wikipedia.org/wiki/Hacker
