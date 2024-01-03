@@ -69,7 +69,7 @@ Certainly, I do enjoy to toy around with a system or program to understand how i
 
 > In fact, I'm well-knowledgeable on cybersecurity (or if you will, *hacking*) and privacy over the Internet.
 
-> In practice, I have reverse engineered complex software, websites and their APIs, such as [`win11-uefi`](https://github.com/LeCodingWolfie/win11-uefi) (i.e. Windows UEFI bootloader), Widevine DRM (through Electron/Chromium), Twitter and Twitch's APIs, with programs like Ghidra, IDA, Radare2 and x64dbg as well as some programming, with good amount of knowledge on assembly code, C and other languages.
+> In practice, I have reverse engineered complex software, websites and their APIs, such as [`win11-uefi`](https://github.com/LeCodingWolfie/win11-uefi) (i.e. Windows UEFI bootloader), Widevine DRM (through Electron/Chromium), the Roblox game, and Twitter and Twitch's APIs, with programs like Ghidra, IDA, Radare2 and x64dbg as well as some programming, with good amount of knowledge on assembly code, C and other languages.
 
 > I have been able to, both, dynamically and statically analyze software to understand their code flow. I've reconstructed solid, functional code out of disassembly and its decompilation, and even write tools to do the job.
 
