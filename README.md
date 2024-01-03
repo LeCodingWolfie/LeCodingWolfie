@@ -60,9 +60,9 @@ Actually, I've been working on multiple scientific papers, such as on important,
 [GIF]: https://media1.tenor.com/m/J--FtRHGiz0AAAAC/indeed-omar.gif
 [Tenor]: https://tenor.com/view/well-yes-but-actually-no-well-yes-no-yes-yes-no-gif-13736934
 
-a *hacker* is defined as someone "who delights over an intimate understanding of the workings of systems and networks". <sup>[1][RFC1983]</sup>
+a *hacker* is defined as someone "who delights over an intimate understanding of systems and networks' workings". <sup>[1][RFC1983]</sup>
 
-Certainly, I do enjoy to toy with a system or program to understand how it works and get something out of it, even after the pain; as Wikipedia puts, "the challenge of creatively overcoming the limitations of [systems] [...] to achieve clever outcomes". <sup>[2][Wikipedia]</sup>
+Certainly, I do enjoy to toy with a system or program to understand how it works and get something out of it, even aftethe pain; as Wikipedia puts, "the challenge of creatively overcoming the limitations of [systems] [...] to achieve clever outcomes". <sup>[2][Wikipedia]</sup>
 
 [RFC1983]: https://www.rfc-editor.org/rfc/rfc1983.txt
 [Wikipedia]: https://en.wikipedia.org/wiki/Hacker
@@ -71,7 +71,7 @@ Certainly, I do enjoy to toy with a system or program to understand how it works
 
 > In practice, I have reverse engineered complex software, websites and their APIs, such as [`win11-uefi`](https://github.com/LeCodingWolfie/win11-uefi) (i.e. Windows UEFI bootloader), Widevine DRM (through Electron/Chromium), the Roblox game, and Twitter and Twitch's APIs, with programs like Ghidra, IDA, Radare2 and x64dbg as well as some programming, with good amount of knowledge on assembly code, C and other languages.
 
-> I have been able to, both, dynamically and statically analyze software to understand their code flow. I've reconstructed solid, functional code out of disassembly and its decompilation, and even write tools to do the job.
+> I have been able to both, dynamically and statically analyze software's code flow. And thus I've reconstructed solid, functional code out of disassembly and its decompilation, and even write tools to do the job.
 
 # Acknowledgments
 
