@@ -13,20 +13,19 @@
   <a href="https://dimentique.tumblr.com/post/67903777806/source"><img src="gif/wolf.gif"></a>
 </div>  &#8287;
 <div align="center">
-  <img src="svg/languages/c.svg" alt="C" width="50"> &#8287;
-  <img src="svg/languages/cpp.svg" alt="C++" width="50"> &#8287;
-  <img src="svg/languages/csharp.svg" alt="C#" width="50"> &#8287;
-  <img src="svg/languages/rust.svg" alt="Rust" width="50"> &#8287;
-  <img src="svg/languages/lua.svg" alt="Lua" width="50"> &#8287;
-  <img src="svg/languages/python.svg" alt="Python" width="50"> &#8287;
-  <img src="svg/languages/html.svg" alt="HTML5" width="50"> &#8287;
-  <img src="svg/languages/css.svg" alt="CSS3" width="50"> &#8287;
-  <img src="svg/languages/js.svg" alt="Javascript" width="50"> &#8287;
-  <img src="svg/languages/ts.svg" alt="Typescript" width="50"/>
-  <img src="svg/languages/go.svg" alt="Go" width="50"> &#8287;
-  <img src="svg/languages/bash.svg" alt="Bash" width="50"> &#8287;
-  <a href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/latex.svg">
-    <img src="svg/languages/latex.svg" alt="LaTeX" width="50"></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="svg/languages/c.svg" alt="C" width="50"></a> &#8287;
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="svg/languages/cpp.svg" alt="C++" width="50"></a> &#8287;
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="svg/languages/csharp.svg" alt="C#" width="50"></a> &#8287;
+  <a href="https://www.rust-lang.org/"><img src="svg/languages/rust.svg" alt="Rust" width="50"></a> &#8287;
+  <a href="https://www.lua.org/about.html"><img src="svg/languages/lua.svg" alt="Lua" width="50"></a> &#8287;
+  <a href="https://www.python.org/"><img src="svg/languages/python.svg" alt="Python" width="50"></a> &#8287;
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="svg/languages/html.svg" alt="HTML5" width="50"></a> &#8287;
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="svg/languages/css.svg" alt="CSS3" width="50"></a> &#8287;
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="svg/languages/js.svg" alt="Javascript" width="50"></a> &#8287;
+  <a href="https://www.typescriptlang.org/"><img src="svg/languages/ts.svg" alt="Typescript" width="50"/></a>
+  <a href="https://go.dev/"><img src="svg/languages/go.svg" alt="Go" width="50"></a> &#8287;
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="svg/languages/bash.svg" alt="Bash" width="50"></a> &#8287;
+  <img src="svg/languages/latex.svg" alt="LaTeX" width="50">
 </div> &#8287;
 <div align="center">
   <img src="svg/i-use-arch-linux-btw.svg" alt="Arch Linux">
@@ -34,9 +33,9 @@
 
 ___
 
-### *Not a Furry ™*
+### *Not a Cat ™*
 
-Hi Internet, as of 15, I'm an independent researcher, programmer, *hacker*, and *to-be* artist with interests and knowledge ranging from biology, chemistry and engineering to psychology, neurology and medicine.
+Hi Internet, I'm an independent researcher, programmer since I was 10, *hacker*, and *to-be* artist with interests and knowledge ranging from biology, chemistry and engineering to psychology, neurology and medicine.
 
 I am an Internet privacy and FLOSS (free/*libre* open-source software) <sup>a</sup> advocate and enthusiast.
 
@@ -46,35 +45,31 @@ I am an Internet privacy and FLOSS (free/*libre* open-source software) <sup>a</s
 
 [GNU]: https://www.gnu.org/philosophy/free-sw.en.html
 
-# FAQ
+## *Researcher?*
 
-## *Scientist?*
+Indeed, over more than 4 years, I have researched a myriad of complex topics and fields, from AIs/ML, biochemistry and psychology through quantum mechanics, cosmology and their mathematics, through academic articles, books, and other authoritative sources.
 
-[![actually-no][GIF]][Tenor]
-
-[GIF]: https://media.tenor.com/zySGP75JLWgAAAAC/well-yes-but-actually-no-well-yes.gif
-[Tenor]: https://tenor.com/view/well-yes-but-actually-no-well-yes-no-yes-yes-no-gif-13736934
-
-Yes, *sort of*.
-
-> Over more than 3 years, I have researched complex topics through academic articles, books, and other authoritative sources.
-
-> In fact, I am in the process to write several scientific papers, one with a fellow researcher on an important, overlooked topic, and I look forward to write even more on these topics and other similarly challenging projects.
+Actually, I've been working on multiple scientific papers, such as on important, overlooked topics (e.g. bloat/software complexity) with a CS researcher; <sup>[a](https://github.com/adisa22)</sup> several others with an independent researcher, good friend of mine, on groundbreaking research, such as a theory of the universe and simulations; <sup>[b](https://github.com/Fultonium-Entertainment)</sup> and some personally on speech synthesis and AI; in fact, I look forward towards similarly challenging projects.
 
 ## *Hacker?*
 
 <sup>Before you call FBI on me</sup>
 
-a *hacker* has been defined as "[someone] who delights [over] an intimate understanding of the internal workings of a system, computers and networks" <sup>[1][RFC1983]</sup>, which I completely identify with.
+[![oh-indeed][GIF]][Tenor]
 
-I do enjoy a lot to toy around with a system or program to understand how it works and get something out of it; as Wikipedia puts, "the challenge of creatively overcoming the limitations of [systems] [...] to achieve clever outcomes" <sup>[2][Wikipedia]</sup>.
+[GIF]: https://media1.tenor.com/m/J--FtRHGiz0AAAAC/indeed-omar.gif
+[Tenor]: https://tenor.com/view/well-yes-but-actually-no-well-yes-no-yes-yes-no-gif-13736934
+
+a *hacker* is defined as someone "who delights over an intimate understanding of the internal workings of systems, computers and networks". <sup>[1][RFC1983]</sup>
+
+Certainly, I do enjoy to toy around with a system or program to understand how it works and get something out of it, even after all the pain; as Wikipedia puts, "the challenge of creatively overcoming the limitations of [systems] [...] to achieve clever outcomes". <sup>[2][Wikipedia]</sup>
 
 [RFC1983]: https://www.rfc-editor.org/rfc/rfc1983.txt
 [Wikipedia]: https://en.wikipedia.org/wiki/Hacker
 
 > In fact, I'm well-knowledgeable on cybersecurity (or if you will, *hacking*) and privacy over the Internet.
 
-> In practice, I have reverse engineered complex software, such as the Windows (11) UEFI bootloader, Widevine DRM (through Electron/Chromium) and others,  with programs like Ghidra, IDA, Radare2 and x64dbg, and with good amount of knowledge on assembly code, C and other languages.
+> In practice, I have reverse engineered complex software, websites and their APIs, such as the Windows UEFI bootloader [(`win11-uefi`)](https://github.com/LeCodingWolfie/win11-uefi), Widevine DRM (through Electron/Chromium), Twitter and Twitch's APIs, with programs like Ghidra, IDA, Radare2 and x64dbg as well as some programming, with good amount of knowledge on assembly code, C and other languages.
 
 > I have been able to, both, dynamically and statically analyze software to understand their code flow. I've reconstructed solid, functional code out of disassembly and its decompilation, and even write tools to do the job.
 
@@ -97,6 +92,12 @@ ___
     licensed under the Pexels license
     <a href="https://www.pexels.com/license/"><sup>c</sup></a>
   </sup>
+  <div>
+    <sup>
+      LaTeX logo taken from Simple Icons
+      <a href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/latex.svg"><sup>a</sup></a>
+    </sup>
+  </div>
   <details>
   <summary>FFmpeg</summary>
 
@@ -112,7 +113,7 @@ ___
 
   [^1]
   </details>
-  <img src="gif/cat.gif">
+  <a href="https://www.reddit.com/r/shitposting/comments/q8uwwu/d/"><img src="gif/cat.gif"></a>
 </div> &#8287;
 
 [^1]: <sup>[1][1], [2][2], [3][3]</sup> / [(a)][a] &#8287;Many people pointed out this cat is not happy, "either as a result of overheating [or] anxiety". Poor cat :(
